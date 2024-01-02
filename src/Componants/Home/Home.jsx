@@ -17,10 +17,9 @@ const Home = () => {
             <div className="home container ">
                 <div className="row container d-flex justify-content-center align-items-center">
                     <div className="col-lg-5">
-                        <div className="hd-decp pt-4">
-                            <h1 className="mb-4">{t("headerh1")}</h1>
-                            <p className="mt-4">
-                            {t("headerp")}</p>
+                        <div className="">
+                            <h1 className="fw-bold mb-4">{t("headerh1")}</h1>
+                            <p className="fw-bold mt-4">{t("headerp")}</p>
                             <div className="pb-3">
                                 <a href="/"><button className="bn632-hover bn21">{t("headerbutton")}</button></a>
                             </div>
@@ -188,7 +187,7 @@ const Home = () => {
         <section className="prod-contact">
             <div className="text-center py-5">
                 <p className='fw-bold text-primary'>{t("PRODUCT")}</p>
-                <h2 className="fw-bold">{t("PRODUCTP")}</h2>
+                <h2 className="fw-bold px-2">{t("PRODUCTP")}</h2>
             </div>
 
             <Productslider />
