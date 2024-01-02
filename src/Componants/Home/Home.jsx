@@ -46,7 +46,7 @@ const Home = () => {
                     <h2 className='fw-bold text-black'>{t("featureh")}</h2>
                     <p className='text-muted'>{t("featurep1")} <br></br> {t("featurep2")}</p>
                 </div>
-                <div className="row m-5">
+                <div className="row">
                     <div className="col-lg-3 col-md-6 p-3 text-center">
                         <div className="shadow box rounded-5">
                             <div className="icon p-3 d-flex justify-content-center align-items-center position-relative ">
