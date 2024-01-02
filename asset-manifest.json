@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Wajihat-app/static/css/main.c6d02bc0.css",
-    "main.js": "/Wajihat-app/static/js/main.33a37b4f.js",
+    "main.css": "/Wajihat-app/static/css/main.ed1dc215.css",
+    "main.js": "/Wajihat-app/static/js/main.04dafd49.js",
     "static/js/787.2dcf4f6f.chunk.js": "/Wajihat-app/static/js/787.2dcf4f6f.chunk.js",
     "static/media/products6.svg": "/Wajihat-app/static/media/products6.eb7b90ff16b164814d4235970e85606e.svg",
     "static/media/products1.png": "/Wajihat-app/static/media/products1.3df59af71d22229f6411.png",
@@ -77,12 +77,12 @@
     "static/media/slick.woff": "/Wajihat-app/static/media/slick.295183786cd8a1389865.woff",
     "static/media/Downloads082.webp": "/Wajihat-app/static/media/Downloads082.bb21fd855dc4a54d3f55.webp",
     "index.html": "/Wajihat-app/index.html",
-    "main.c6d02bc0.css.map": "/Wajihat-app/static/css/main.c6d02bc0.css.map",
-    "main.33a37b4f.js.map": "/Wajihat-app/static/js/main.33a37b4f.js.map",
+    "main.ed1dc215.css.map": "/Wajihat-app/static/css/main.ed1dc215.css.map",
+    "main.04dafd49.js.map": "/Wajihat-app/static/js/main.04dafd49.js.map",
     "787.2dcf4f6f.chunk.js.map": "/Wajihat-app/static/js/787.2dcf4f6f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c6d02bc0.css",
-    "static/js/main.33a37b4f.js"
+    "static/css/main.ed1dc215.css",
+    "static/js/main.04dafd49.js"
   ]
 }
